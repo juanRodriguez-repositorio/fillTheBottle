@@ -1,6 +1,6 @@
 Juego sobre acertijos lógicos, resuelve los acertijos para cada fila y crea el camino para llenar la botella.
 cada acertijo se trata sobre resolver la combinación correcta de tres luces en fila que pueden tomar verde o naranja como color;
-con la pista correspondiente, vas a ser capaz de deducir la combinación correcta.
+con la pista correspondiente, vas a ser capaz de deducir la combinación correcta para cada fila.
 Diviértete y llena la botella!.           
 Ejecutar en src/fillthebottle/FillTheBottle.java
 
